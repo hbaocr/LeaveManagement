@@ -1,5 +1,8 @@
 # Leave Management Application
 
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bygq3bcrc0lrmtdzn9vb.PNG)
+
 <h3>License</h3>
 
 Apache License 2.0
